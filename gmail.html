@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contact Form</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function () {
+            emailjs.init('bN9dw3qOX4-VKS8A8');
+        })();
+    </script>
+    <link rel="stylesheet" href="../css/gmail.css">
+
+</head>
+
+<body>
+    <form id="contact-form">
+        <label>Name</label>
+        <input type="text" name="user_name" id="text" placeholder="Enter your Name">
+        <label>Email</label>
+        <input type="email" name="user_email" id="gmail" placeholder="Enter Your Email">
+        <label>Message</label>
+        <textarea name="message" id="message" placeholder="Enter Your Message"></textarea>
+        <input type="submit" value="Send">
+    </form>
+</body>
+<script type="text/javascript">
+    window.onload = function () {
+        document.getElementById('contact-form').addEventListener('submit', function (event) {
+            event.preventDefault();
+            let params = {
+                from_name: document.getElementById('text').value,
+                email_id: document.getElementById('gmail').value,
+                message: document.getElementById('message').value
+            }
+            emailjs.send('service_iklskkp', 'template_nvv1iu9', params)
+                .then(function (res) {
+                    alert("Email Sent Successfully " + res.text);
+                })
+                .catch(function (err) {
+                    alert("Something went wrong " + err);
+                })
+            document.getElementById('contact-form').reset();
+        });
+    }
+</script>
+
+</html>
