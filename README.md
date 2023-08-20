@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Learning Full Stack | Data Science | Azure Cloud Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh604&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh604" /> </p>
 
