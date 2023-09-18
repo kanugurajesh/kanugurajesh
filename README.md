@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
-<h3 align="center">Learning Full Stack Web Development | Android Development | Azure Cloud Computing | Building open source projects</h3>
+<h3 align="center">Full Stack Web Engineer | Android Engineer | Azure Cloud Engineer | Open Source Project Creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh604&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh604" /> </p>
 
