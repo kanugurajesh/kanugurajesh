@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajesh</h1>
+<h1 align="center">👋 I'm Rajesh</h1>
 <h3 align="center">Full Stack Web Engineer | Android Engineer | Azure Cloud Engineer | Open Source Project Creator</h3>
 <h4 align="center" justify-content="center"> Software Engineer Intern at IIT BOMBAY</h4>
 
