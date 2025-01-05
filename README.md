@@ -4,7 +4,7 @@
 🔭 I’m currently working on building scalable, reliable and secure web apps<br>☕ I'm currently learning DSA in Java and aiming to be a competitive programmer<br>👯 I ❤️ contributing to open source<br>🤝 I’m looking for help with referrals<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about React, Next.js, Typescript, python, tailwindcss, Mongodb, Express, Redux Tool Kit, Django, Flask, langchain, LLM's <br>
 
 ## 🌐 Socials:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajeshportfolio.me/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kanugurajesh.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanugu-aba8a3254/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/exploringengin1)
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@RajeshKanugu)
