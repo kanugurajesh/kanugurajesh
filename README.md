@@ -1,7 +1,16 @@
 [![An image of @rajesh604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajesh604)](https://holopin.io/@rajesh604)
 
-# 💫 About Me:
-🔭 I’m currently learning about build rag's and saas<br>☕ I'm currently learning DSA in Java and aiming to be a competitive programmer<br>👯 I ❤️ contributing to open source<br>🤝 I’m looking for help with referrals<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about React, Next.js, Typescript, python, tailwindcss, Mongodb, Express, Redux Tool Kit, Django, Flask, langchain, LLM's <br>
+# 💫 About Me
+🔭 I’m currently exploring RAGs (Retrieval-Augmented Generation) and SaaS development. <br>
+☕ Learning DSA in Java with the goal of becoming a competitive programmer. <br>
+👯 Passionate about open-source contributions and always looking to collaborate. <br>
+🤝 Seeking referrals for exciting opportunities. <br>
+🌱 Currently mastering Full Stack Development. <br>
+## 💬 Ask me about: <br>
+🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit <br>
+⚡ Backend: Node.js, Express, Django, Flask <br>
+🛠️ Databases: MongoDB, PostgreSQL <br>
+🧠 AI/ML: LangChain, LLMs <br>
 
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kanugurajesh.vercel.app)
