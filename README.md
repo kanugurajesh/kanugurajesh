@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=kanugurajesh)
-
 [![An image of @rajesh604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajesh604)](https://holopin.io/@rajesh604)
 
 # 💫 About Me
