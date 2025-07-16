@@ -1,16 +1,16 @@
 [![An image of @rajesh604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajesh604)](https://holopin.io/@rajesh604)
 
 # 💫 About Me
-🔭 I’m currently learning Gen AI & AI frameworks. <br>
+🔭 I’m currently learning Full Stack Development, AI/ML & . <br>
 ☕ Learning DSA in Java with the goal of becoming a competitive programmer. <br>
 👯 Passionate about open-source contributions and always looking to collaborate. <br>
 🤝 Seeking referrals for exciting opportunities. <br>
 🌱 Currently mastering Full Stack Development. <br>
 ## 💬 Ask me about: <br>
 🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit <br>
-⚡ Backend: Node.js, Express, Django, Flask <br>
-🛠️ Databases: MongoDB, PostgreSQL <br>
-🧠 AI/ML: LangChain, LLMs <br>
+⚡ Backend: Node.js, Express, Django, Flask, Fastapi <br>
+🛠️ Databases: MongoDB, PostgreSQL, Pincone, Qdrant, Supabase <br>
+🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, Tensorflow, scikit-learn <br>
 
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kanugurajesh.vercel.app)
