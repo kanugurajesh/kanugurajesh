@@ -2,10 +2,9 @@
 
 # 💫 About Me
 🔭 I’m currently learning Full Stack Development, AI/ML & Gen-AI <br>
-☕ Learning DSA in Java with the goal of becoming a competitive programmer. <br>
+☕ Learning DSA in Java <br>
 👯 Passionate about open-source contributions and always looking to collaborate. <br>
 🤝 Seeking referrals for exciting opportunities. <br>
-🌱 Currently mastering Full Stack Development. <br>
 ## 💬 Ask me about: <br>
 🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit <br>
 ⚡ Backend: Node.js, Express, Django, Flask, Fastapi <br>
