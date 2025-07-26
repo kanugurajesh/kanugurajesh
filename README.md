@@ -11,6 +11,10 @@
 🛠️ Databases: MongoDB, PostgreSQL, Pincone, Qdrant, Supabase <br>
 🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, Tensorflow, scikit-learn <br>
 
+## 📝 Blog Posts
+
+- [How i built a agent powered github readme generator](https://dev.to/kanugurajesh/ai-powered-readme-generator-automatically-write-beautiful-readmes-with-gemini-langchain-36kl)
+
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kanugurajesh.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanugu-aba8a3254/)
