@@ -1,14 +1,13 @@
 [![An image of @rajesh604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajesh604)](https://holopin.io/@rajesh604)
 
 # 💫 About Me
-🔭 I’m currently learning Full Stack AI Engineering & Agents <br>
-☕ Learning DSA in Java <br>
+🔭 I’m currently learning Full Stack AI Engineering <br>
 👯 Passionate about open-source contributions and always looking to collaborate. <br>
 🤝 Seeking referrals for exciting opportunities. <br>
 ## 💬 Ask me about: <br>
 🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit <br>
 ⚡ Backend: Node.js, Express, Django, Flask, Fastapi <br>
-🛠️ Databases: MongoDB, PostgreSQL, Pincone, Qdrant, Supabase, Neo4j <br>
+🛠️ Databases: MongoDB, PostgreSQL, Pincone, Qdrant, Supabase, Neo4j, Redis <br>
 🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, Tensorflow, scikit-learn <br>
 
 ## 📝 Blog Posts
