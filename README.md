@@ -8,7 +8,7 @@
 🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit <br>
 ⚡ Backend: Node.js, Express, Django, Flask, Fastapi <br>
 🛠️ Databases: MongoDB, PostgreSQL, Pincone, Qdrant, Supabase, Neo4j, Redis <br>
-🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, Tensorflow, scikit-learn <br>
+🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, Tensorflow, scikit-learn, Agent Development Kit <br>
 
 ## 📝 Blog Posts
 
