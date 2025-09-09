@@ -5,7 +5,7 @@
 👯 Passionate about open-source contributions and always looking to collaborate. <br>
 🤝 Seeking referrals for exciting opportunities. <br>
 ## 💬 Ask me about: <br>
-🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit <br>
+🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit, Zod, Zustand <br>
 ⚡ Backend: Node.js, Express, Django, Flask, Fastapi <br>
 🛠️ Databases: MongoDB, PostgreSQL, Pincone, Qdrant, Supabase, Neo4j, Redis <br>
 🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, Tensorflow, scikit-learn, Agent Development Kit <br>
