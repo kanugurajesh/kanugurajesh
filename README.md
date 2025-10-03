@@ -1,7 +1,7 @@
 [![An image of @rajesh604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajesh604)](https://holopin.io/@rajesh604)
 
 # 💫 About Me
-🔭 I’m currently learning Full Stack Development & AI Engineering <br>
+🔭 I’m currently learning AI Engineering <br>
 👯 Passionate about open-source contributions and always looking to collaborate. <br>
 🤝 Seeking referrals for exciting opportunities. <br>
 ## 💬 Ask me about: <br>
