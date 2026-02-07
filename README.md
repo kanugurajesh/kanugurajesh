@@ -1,7 +1,7 @@
 # 💫 About Me
 🔭 I’m currently learning AI Engineering <br>
-👯 Passionate about open-source contributions and always looking to collaborate. <br>
 🤝 Seeking referrals for exciting opportunities. <br>
+
 ## 💬 Ask me about: <br>
 🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit, Zod, Zustand <br>
 ⚡ Backend: Node.js, Express, Django, Flask, Fastapi <br>
