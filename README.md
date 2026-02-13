@@ -1,7 +1,10 @@
 # 💫 About Me
-🔭 I’m currently learning AI Engineering <br>
+🔭 I’m currently learning AI Engineering and building real-world AI-powered applications. <br>
+🚀 Full-Stack Developer with a strong focus on scalable systems and intelligent applications. <br>
+🧠 Exploring LLMs, Agentic workflows, RAG pipelines, and deep learning. <br>
+📚 Actively learning system design and high-level architecture. <br>
+💼 Open to Software Engineer / AI Engineer roles. <br>
 🤝 Seeking referrals for exciting opportunities. <br>
-
 ## 💬 Ask me about: <br>
 🚀 Languages: JavaScript, TypeScript, Python, SQL <br>
 🚀 Frontend: React, Next.js, React Native, TailwindCSS, Redux Toolkit, Zod, Zustand <br>
