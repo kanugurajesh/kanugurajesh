@@ -3,10 +3,11 @@
 🤝 Seeking referrals for exciting opportunities. <br>
 
 ## 💬 Ask me about: <br>
-🚀 Frontend: React, Next.js, React Native, TypeScript, TailwindCSS, Redux Toolkit, Zod, Zustand <br>
-⚡ Backend: Node.js, Express, Django, Flask, Fastapi <br>
-🛠️ Databases: MongoDB, PostgreSQL, Pincone, Qdrant, Supabase, Neo4j, Redis <br>
-🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, Tensorflow, scikit-learn, Agent Development Kit <br>
+🚀 Languages: JavaScript, TypeScript, Python, SQL <br>
+🚀 Frontend: React, Next.js, React Native, TailwindCSS, Redux Toolkit, Zod, Zustand <br>
+⚡ Backend: Node.js, Express, NestJS, Django, Flask, FastAPI, Django <br>
+🛠️ Databases: MongoDB, PostgreSQL, Pinecone, Qdrant, Supabase, Neo4j, Redis <br>
+🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, TensorFlow, scikit-learn, Agent Development Kit <br>
 
 ## 📝 Blog Posts
 
