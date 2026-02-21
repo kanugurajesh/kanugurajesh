@@ -8,9 +8,9 @@
 ## 💬 Ask me about: <br>
 🚀 Languages: JavaScript, TypeScript, Python, SQL <br>
 🚀 Frontend: React, Next.js, React Native, TailwindCSS, Redux Toolkit, Zod, Zustand <br>
-⚡ Backend: Node.js, Express, NestJS, Django, Flask, FastAPI, Django <br>
+⚡ Backend: Node.js, Express, NestJS, Django, Flask, FastAPI<br>
 🛠️ Databases: MongoDB, PostgreSQL, Pinecone, Qdrant, Supabase, Neo4j, Redis <br>
-🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, TensorFlow, scikit-learn, Agent Development Kit <br>
+🧠 AI/ML: LangChain, LangGraph, LLMs, Agno, pytorch, scikit-learn, Agent Development Kit <br>
 
 ## 📝 Blog Posts
 
