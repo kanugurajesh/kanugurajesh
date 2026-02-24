@@ -22,3 +22,5 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/exploringengin1)
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@RajeshKanugu)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCK8JZ6oQY32SQO3ohLWkuxw)
+
+![GitHub Stats](https://github-stats-nine-lemon.vercel.app/api/stats?username=kanugurajesh&theme=dark)
