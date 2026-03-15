@@ -24,5 +24,3 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCK8JZ6oQY32SQO3ohLWkuxw)
 
 ![GitHub Streak](https://github-stats-nine-lemon.vercel.app/api/streak?username=kanugurajesh&theme=dark)
-
-![GitHub Stats](https://github-stats-nine-lemon.vercel.app/api/stats?username=kanugurajesh&theme=dark)
