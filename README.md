@@ -15,6 +15,7 @@
 ## 📝 Blog Posts
 
 - [How i built a agent powered github readme generator](https://dev.to/kanugurajesh/ai-powered-readme-generator-automatically-write-beautiful-readmes-with-gemini-langchain-36kl)
+- [Building AI-Native Infrastructure with Specmatic: How I Eliminated Integration Uncertainty in a Multi-Service System](https://dev.to/kanugurajesh/building-ai-native-infrastructure-with-specmatic-how-i-eliminated-integration-uncertainty-in-a-21m6)
 
 ## 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kanugurajesh.vercel.app)
