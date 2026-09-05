@@ -18,7 +18,6 @@
 - [Building AI-Native Infrastructure with Specmatic: How I Eliminated Integration Uncertainty in a Multi-Service System](https://dev.to/kanugurajesh/building-ai-native-infrastructure-with-specmatic-how-i-eliminated-integration-uncertainty-in-a-21m6)
 
 ## 🌐 Socials:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kanugurajesh.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanugu-aba8a3254/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/exploringengin1)
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@RajeshKanugu)
